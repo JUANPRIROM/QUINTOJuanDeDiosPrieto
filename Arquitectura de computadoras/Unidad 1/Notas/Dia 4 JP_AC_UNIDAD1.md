@@ -3,6 +3,7 @@ Unidad de Control(CU):  Coordinadora maestra dentro de la CPU que emite señale
 Unidad Aritmética lógica (ALU): Circuito que realiza cálculos aritméticos y operaciones lógicas en microprocesadores.
 
 Program Counter (PC): Registro que almacena la dirección de la siguiente instrucción a ejecutar.
+
 Current Instruction Register(CIR):  Contiene la instrucción actual en ejecución.
 
 Memory Address Register(MAR): Almacena la dirección de memoria para acceder a datos.
